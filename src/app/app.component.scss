@@ -1,0 +1,31 @@
+
+
+.dropdown-menu {
+    background: #e6e6e6;
+    margin-top: 0;
+    max-height: 150px; 
+    overflow: hidden;
+    overflow-y: auto;
+    width: 400px;
+    
+}
+
+.list:hover {
+    background-color: darkblue;
+    color: white;
+    cursor: pointer;
+}
+
+button {
+    width: 400px;
+    text-align: left;
+    align-items: center;
+}
+
+span{
+    float: right;
+    position: relative;
+    margin-right: 5px;
+    align-items: center;
+}
+
